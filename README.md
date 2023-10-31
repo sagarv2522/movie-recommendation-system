@@ -1,5 +1,16 @@
 # Book Recommendation System 📚
 
+<div align="left">
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![IPython](https://img.shields.io/badge/IPython-%230C55A5?style=flat-square&logo=ipython&logoColor=white)](https://ipython.org/)
+[![ipywidgets](https://img.shields.io/badge/ipywidgets-%23444?style=flat-square&logo=ipywidgets&logoColor=white)](https://ipywidgets.readthedocs.io/)
+
+</div>
+
 This repository contains Python code for building a book recommendation system. The system uses techniques like TF-IDF (Term Frequency-Inverse Document Frequency) and cosine similarity to provide book recommendations based on user input.
 
 ## Prerequisites
